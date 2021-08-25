@@ -4,7 +4,7 @@
 <h4>Skills:</h4>
 
 <div>
-  <img align="center" alt="guycanella-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" >
+  <img align="center" alt="guycanella-html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" >
   </div>
 
 <!--
