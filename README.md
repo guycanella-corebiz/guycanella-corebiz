@@ -1,6 +1,12 @@
 <h1 align="center">Olá, meu nome é Guilherme Canella</h1>
 <h3 align="center">Desenvolvedor Front-end</h3>
 
+<h4>Skills:</h4>
+
+<div>
+  <img align="center" alt="guycanella-html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css" >
+  </div>
+
 <!--
 **guycanella-corebiz/guycanella-corebiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
