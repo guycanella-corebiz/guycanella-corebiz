@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Olá, meu nome é Guilherme Canella</h1>
+<h3 align="center">Desenvolvedor Front-end</h3>
 
 <!--
 **guycanella-corebiz/guycanella-corebiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
